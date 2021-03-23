@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt text](C:\Projects\qr.png?raw=true "QR")
+![Alt text](/C:/Projects/qr.png?raw=true "QR")
 
 <!--
 **grundydarcey/grundydarcey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
