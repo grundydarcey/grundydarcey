@@ -9,6 +9,7 @@ My name is Darcey. I'm a full-stack software engineer currently based in Phoenix
     <li>:gem: I love adding new technologies to my toolbelt.</li>
 </ul><br />
 
-<div style="align:center">[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)</div>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
+
 
 Feel free to take a look around at some of my projects!</a>
