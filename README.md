@@ -1,4 +1,4 @@
-Hi there! :wave:<hr style="border:2px solid gray" />
+Hi there! :wave:<hr style="border:0.5px solid black" />
 
 My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
 
