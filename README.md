@@ -7,7 +7,7 @@ My name is Darcey. I'm a full-stack software engineer currently based in Phoenix
 :boom: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects.<br />
 :gem: I love adding new technologies to my toolbelt.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey)](https://github.com/grundydarcey/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
 
 
 Feel free to take a look around at some of my projects!</a>
