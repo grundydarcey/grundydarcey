@@ -3,8 +3,8 @@ Hi there! :wave:<hr />
 My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
 
 
-:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed yet.
-:star2: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects.
+:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed yet.<br />
+:star2: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects.<br />
 :star2: I love adding new technologies to my toolbelt.
 
 
