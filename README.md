@@ -3,6 +3,8 @@
 
 My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
     <li>:boom: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects</li>
