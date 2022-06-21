@@ -16,5 +16,11 @@
     <li>:+1: Successful career-switcher</li>
 </ul><br />
 
+
+<p align="center">
+    <a href="https://github.com/grundydarcey/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack">
+    </a>
+</p>
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
 </div>
