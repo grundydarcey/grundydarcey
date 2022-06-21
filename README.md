@@ -4,8 +4,8 @@
 <p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
 
 <p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default">
+    <a href="https://github.com/grundydarcey/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack">
     </a>
 </p>
 
@@ -16,11 +16,10 @@
     <li>:+1: Successful career-switcher</li>
 </ul><br />
 
-
 <p align="center">
-    <a href="https://github.com/grundydarcey/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default">
     </a>
 </p>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
+
 </div>
