@@ -2,12 +2,12 @@
 <!-- <hr style="border:0.5px solid black" /> -->
 <p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
 
-<p align="center">
+<p align="right">
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default" alt="Songs I'm listening to on Spotify">
     </a>
 </p>
-<hr style="border-top: 3px solid green" />
+<hr />
 
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
