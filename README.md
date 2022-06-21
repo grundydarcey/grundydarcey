@@ -1,6 +1,5 @@
 <h1>Hi :wave:</h1>
 <!-- <hr style="border:0.5px solid black" /> -->
-<div style="display: flex; flex-direction: column;">
 <p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
 
 <p align="center">
@@ -8,6 +7,7 @@
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default" alt="Songs I'm listening to on Spotify">
     </a>
 </p>
+<hr />
 
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
@@ -19,5 +19,3 @@
 <p align="center">    
     <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack" alt="My github stats showing my awesome work">
 </p>
-
-</div>
