@@ -7,7 +7,7 @@
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default" alt="Songs I'm listening to on Spotify">
     </a>
 </p>
-<hr style="border-top: 3px solid green;" />
+<hr style="border-top: 3px solid green" />
 
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
