@@ -1,7 +1,7 @@
 <h1>Hi :wave:</h1>
 <!-- <hr style="border:0.5px solid black" /> -->
-
-<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
+<div style="display: flex; flex-direction: column;">
+My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
@@ -15,4 +15,4 @@
 </ul><br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
-</p>
+</div>
