@@ -1,11 +1,11 @@
 <h1>Hi :wave:</h1>
 <!-- <hr style="border:0.5px solid black" /> -->
 
-<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
+<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.
 
-<p align="center">
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-</p>
+
 
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
@@ -15,3 +15,4 @@
 </ul><br />
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack)](https://github.com/grundydarcey/github-readme-stats)
+</p>
