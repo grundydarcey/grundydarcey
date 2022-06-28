@@ -9,7 +9,7 @@
 </p>
 <hr />
 
-[![Image of https://github.com/grundydarcey/my-profile-views-counter](https://github.com/grundydarcey/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)<br />
+![](https://komarev.com/ghpvc/?username=grundydarcey)<br />
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
     <li>:boom: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects</li>
