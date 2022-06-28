@@ -13,7 +13,7 @@
 <p align ="center">
 <!-- ![](https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen) -->
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
-<img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen" />
+<img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen?style=flat&logo=javascript" />
 
 <br />
 <ul>
