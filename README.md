@@ -14,7 +14,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen) -->
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
 <img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen?style=flat&logo=javascript" />
-
+<img alt="NPM badge" src="https://img.shields.io/badge/NPM-NPM-brightgreen?style=flat&logo=npm" />
 <br />
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
