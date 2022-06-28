@@ -11,7 +11,6 @@
 
 
 <p align ="center">
-<!-- ![](https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen) -->
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
 <img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen?style=flat&logo=javascript" />
 <img alt="NPM badge" src="https://img.shields.io/badge/NPM-NPM-brightgreen?style=flat&logo=npm" />
@@ -25,5 +24,5 @@
 </p><br />
 
 <p align="center">    
-    <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=moltack" alt="My github stats showing my awesome work">
+    <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=chartreuse-dark" alt="My github stats showing my awesome work">
 </p>
