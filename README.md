@@ -16,7 +16,7 @@
 <img alt="NPM badge" src="https://img.shields.io/badge/NPM-NPM-brightgreen?style=flat&logo=npm" />
 <img alt="Vue badge" src="https://img.shields.io/badge/Vue.js-Vue-brightgreen?style=flat&logo=vue.js" />
 <img alt="React badge" src="https://img.shields.io/badge/React.js-React-brightgreen?style=flat&logo=react" />
-<img alt="Mongo badge" src="https://img.shields.io/badge/MongoDB-MongoDB-brightgreen?style=flat&logo=mongo" />
+<img alt="Mongo badge" src="https://img.shields.io/badge/MongoDB-MongoDB-brightgreen?style=flat&logo=mongodb" />
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
 <br />
 <ul>
