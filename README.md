@@ -18,6 +18,7 @@
 <img alt="React badge" src="https://img.shields.io/badge/React.js-React-brightgreen?style=flat&logo=react" />
 <img alt="Mongo badge" src="https://img.shields.io/badge/MongoDB-MongoDB-brightgreen?style=flat&logo=mongodb" />
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
+<img alt="Node.js badge" src="https://img.shields.io/badge/Node.js-Node-brightgreen?style=flat&logo=node.js" />
 <br />
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
