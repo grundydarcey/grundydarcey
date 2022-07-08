@@ -14,8 +14,10 @@
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
 <img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen?style=flat&logo=javascript" />
 <img alt="NPM badge" src="https://img.shields.io/badge/NPM-NPM-brightgreen?style=flat&logo=npm" />
-<img alt="Vue badge" src="https://img.shields.io/badge/Vue.js-Vue-brightgreen?style=flat&logo=vue" />
+<img alt="Vue badge" src="https://img.shields.io/badge/Vue.js-Vue-brightgreen?style=flat&logo=vue.js" />
 <img alt="React badge" src="https://img.shields.io/badge/React.js-React-brightgreen?style=flat&logo=react" />
+<img alt="Mongo badge" src="https://img.shields.io/badge/MongoDB-MongoDB-brightgreen?style=flat&logo=mongo" />
+<img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
 <br />
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
