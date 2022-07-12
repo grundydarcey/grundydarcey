@@ -20,7 +20,8 @@
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
 <img alt="Node.js badge" src="https://img.shields.io/badge/Node.js-Node-brightgreen?style=flat&logo=node.js" />
 <img alt="Git badge" src="https://img.shields.io/badge/Git-Git-brightgreen?style=flat&logo=git" />
-<img alt="VSCode badge" src="https://img.shields.io/badge/VSCode-VSCode-brightgreen?style=flat&logo=VSCode" />
+<img alt="VSCode badge" src="https://img.shields.io/badge/VSCode-VSCode-brightgreen?style=flat&logo=VSC" />
+<img alt="Clickup" src="https://img.shields.io/badge/Clickup-Clickup-brightgreen?style=flat&logo=Clickup" />
 <br />
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
