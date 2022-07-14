@@ -27,12 +27,15 @@
 <img alt="Clickup" src="https://img.shields.io/badge/Clickup-Clickup-brightgreen?style=flat&logo=Clickup" />
 <br />
 </p>
+
+<p align="center">
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
     <li>:boom: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects</li>
     <li>:gem: I love adding new technologies to my toolbelt</li>
     <li>:+1: Successful career-switcher</li>
 </ul>
+</p>
 <br />
 
 <p align="center">    
