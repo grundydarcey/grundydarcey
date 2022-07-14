@@ -1,6 +1,7 @@
 <h1>Hi :wave:</h1>
+<h1>Hi <picture src="https://c.tenor.com/Q1GffEXQrgAAAAAj/cyndaquil-pokemon.gif"></picture></h1>
 <!-- <hr style="border:0.5px solid black" /> -->
-<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects. </p>
+<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects. Currently obsessed with </p>
 
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
