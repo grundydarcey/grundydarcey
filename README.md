@@ -12,6 +12,9 @@
 
 <p align ="center">
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
+<img alt="HTML Badge" src="https://img.shields.io/badge/HTML5-HTML-brightgreen?style=flat&logo=html5" />
+<img alt="CSS Badge" src="https://img.shields.io/badge/CSS3-CSS-brightgreen?style=flat&logo=css3" />
+<img alt="Express Badge" src="https://img.shields.io/badge/Express-Express-brightgreen?style=flat&logo=express" />
 <img alt="JavaScript badge" src="https://img.shields.io/badge/JavaScript-JS-brightgreen?style=flat&logo=javascript" />
 <img alt="NPM badge" src="https://img.shields.io/badge/NPM-NPM-brightgreen?style=flat&logo=npm" />
 <img alt="Vue badge" src="https://img.shields.io/badge/Vue.js-Vue-brightgreen?style=flat&logo=vue.js" />
