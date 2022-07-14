@@ -6,7 +6,7 @@
     </picture>
 </h1>
 
-<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects. Currently obsessed with </p>
+<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
 
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
