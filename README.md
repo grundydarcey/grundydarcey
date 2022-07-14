@@ -5,7 +5,7 @@
         <img align="left" width="60" alt="Pixel art of Cyndaquil flexing his best feature" src="https://c.tenor.com/Q1GffEXQrgAAAAAj/cyndaquil-pokemon.gif">
     </picture>
 </h1>
-<!-- <hr style="border:0.5px solid black" /> -->
+
 <p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects. Currently obsessed with </p>
 
 <p align="center">
@@ -14,7 +14,6 @@
     </a>
 </p>
 <hr />
-
 
 <p align ="center">
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=brightgreen" />
