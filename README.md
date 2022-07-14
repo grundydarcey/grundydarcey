@@ -1,6 +1,6 @@
 <h1>Hi :wave:</h1>
 <!-- <hr style="border:0.5px solid black" /> -->
-<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
+<p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects. </p>
 
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
@@ -26,13 +26,14 @@
 <img alt="VSCode badge" src="https://img.shields.io/badge/VSCode-VSCode-brightgreen?style=flat&logo=VSC" />
 <img alt="Clickup" src="https://img.shields.io/badge/Clickup-Clickup-brightgreen?style=flat&logo=Clickup" />
 <br />
+</p>
 <ul>
     <li>:star2: My favorite part of development is knowing that no task is really impossible, just not fully fleshed out yet</li>
     <li>:boom: In a world of no/low documentation, I pride myself on being able to self-teach and get up to speed quickly on unfamiliar projects</li>
     <li>:gem: I love adding new technologies to my toolbelt</li>
     <li>:+1: Successful career-switcher</li>
 </ul>
-</p><br />
+<br />
 
 <p align="center">    
     <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=chartreuse-dark" alt="My github stats showing my awesome work">
