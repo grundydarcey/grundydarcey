@@ -3,6 +3,7 @@
     <picture>
         <source srcset="https://c.tenor.com/Q1GffEXQrgAAAAAj/cyndaquil-pokemon.gif" media="(prefers-reduced-motion: reduce)">
         <img align="left" width="60" alt="Pixel art of Cyndaquil flexing his best feature" src="https://c.tenor.com/Q1GffEXQrgAAAAAj/cyndaquil-pokemon.gif">
+        </source>
     </picture>
 </h1>
 
