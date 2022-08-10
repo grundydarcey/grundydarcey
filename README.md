@@ -32,7 +32,6 @@
 <img alt="Git badge" src="https://img.shields.io/badge/Git-Git-brightgreen?style=flat&logo=git" />
 <img alt="VSCode badge" src="https://img.shields.io/badge/VSCode-VSCode-brightgreen?style=flat&logo=VSC" />
 <img alt="Clickup" src="https://img.shields.io/badge/Clickup-Clickup-brightgreen?style=flat&logo=Clickup" />
-<img alt="Manage Engine badge" src="https://img.shields.io/badge/ManageEngine-ME-brightgreen?style=flat&logo=ManageEngine">
 <br />
 </p>
 
