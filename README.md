@@ -30,6 +30,7 @@
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
 <img alt="Node.js badge" src="https://img.shields.io/badge/Node.js-Node-brightgreen?style=flat&logo=node.js" />
 <img alt="Git badge" src="https://img.shields.io/badge/Git-Git-brightgreen?style=flat&logo=git" />
+<img alt="GitLab badge" src="https://img.shields.io/badge/GitLab-GitLab-brightgreen?style=flat&logo=gitlab" />
 <img alt="VSCode badge" src="https://img.shields.io/badge/VSCode-VSCode-brightgreen?style=flat&logo=VSC" />
 <img alt="Clickup" src="https://img.shields.io/badge/Clickup-Clickup-brightgreen?style=flat&logo=Clickup" />
 <br />
