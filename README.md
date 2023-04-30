@@ -27,6 +27,7 @@
 <img alt="Vue badge" src="https://img.shields.io/badge/Vue.js-Vue-brightgreen?style=flat&logo=vue.js" />
 <img alt="React badge" src="https://img.shields.io/badge/React.js-React-brightgreen?style=flat&logo=react" />
 <img alt="Mongo badge" src="https://img.shields.io/badge/MongoDB-MongoDB-brightgreen?style=flat&logo=mongodb" />
+<img alt="Kibana badge" src="https://img.shields.io/badge/Kibana-Kibana-brightgreen?style=flat&logo=Kibana" />
 <img alt="PostgreSQL badge" src="https://img.shields.io/badge/PostgreSQL-PGSQL-brightgreen?style=flat&logo=postgresql" />
 <img alt="Node.js badge" src="https://img.shields.io/badge/Node.js-Node-brightgreen?style=flat&logo=node.js" />
 <img alt="Git badge" src="https://img.shields.io/badge/Git-Git-brightgreen?style=flat&logo=git" />
