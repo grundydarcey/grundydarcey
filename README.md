@@ -49,5 +49,5 @@
 <br />
 
 <p align="center">    
-    <img src="https://github-readme-stats.vercel.app/api?username=grundydarcey&theme=chartreuse-dark" alt="My github stats showing my awesome work">
+    [![Darcey's GitHub stats](https://github-readme-stats.vercel.app/api?username=grundydarcey)](https://github.com/grundydarcey/github-readme-stats)
 </p>
