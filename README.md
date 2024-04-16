@@ -9,21 +9,21 @@
 </p>
 <hr />
 <p align ="center">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=1A1423" />
-    <img src="https://img.shields.io/badge/-HTML5-372549?style=flat&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-CSS3-774C60?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-B75D69?style=flat&logo=javascript&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-React-EACDC2?style=flat&logo=react&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/-Express.js-1A1423?style=flat&logo=express">
-    <img src="https://img.shields.io/badge/-Node.js-372549?style=flat&logo=Node.js&logoColor=white">
-    <img src="http://img.shields.io/badge/-Git-774C60?style=flat&logo=git&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-Github-B75D69?style=flat&logo=github&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-VS%20Code-EACDC2?style=flat&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/-Vue-1A1423?style=flat&logo=vue.js&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/-Jira-372549?style=flat&logo=jira&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/-Gitlab-774C60?style=flat&logo=gitlab&logoColor=00c8ff">
-    <img src="http://img.shields.io/badge/-Heroku-B75D69?style=flat&logo=heroku&logoColor=white">
-    <img src="http://img.shields.io/badge/-Vercel-EACDC2?style=flat&logo=vercel&logoColor=white">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=grundydarcey&color=313628" />
+    <img src="https://img.shields.io/badge/-HTML5-595358?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/-CSS3-857F74?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-JavaScript-A4AC96?style=flat&logo=javascript&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-React-CADF9E?style=flat&logo=react&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/-Express.js-313628?style=flat&logo=express">
+    <img src="https://img.shields.io/badge/-Node.js-595358?style=flat&logo=Node.js&logoColor=white">
+    <img src="http://img.shields.io/badge/-Git-857F74?style=flat&logo=git&logoColor=FFFFFF">
+    <img src="http://img.shields.io/badge/-Github-A4AC96?style=flat&logo=github&logoColor=FFFFFF">
+    <img src="http://img.shields.io/badge/-VS%20Code-CADF9E?style=flat&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/-Vue-313628?style=flat&logo=vue.js&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/-Jira-595358?style=flat&logo=jira&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/-Gitlab-857F74?style=flat&logo=gitlab&logoColor=00c8ff">
+    <img src="http://img.shields.io/badge/-Heroku-A4AC96?style=flat&logo=heroku&logoColor=white">
+    <img src="http://img.shields.io/badge/-Vercel-CADF9E?style=flat&logo=vercel&logoColor=white">
 </p>
 <p align="center">
 <ul>
