@@ -4,7 +4,7 @@
 <p align="center">My name is Darcey. I'm a full-stack software engineer currently based in Phoenix, Arizona. I like music, cooking, reality TV and finishing side projects.</p>
 <p align="center">
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img alt="Songs I'm listening to on Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=grundy.darcey&cover_image=true&theme=default">
+        <img alt="Songs I'm listening to on Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=grundy.darcey&cover_image=true&theme=default">
     </a>
 </p>
 <hr />
